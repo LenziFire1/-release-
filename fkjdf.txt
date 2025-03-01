@@ -1,0 +1,47 @@
+<section class="classes">
+				<div class="classes__block classec__container">
+					<div>
+						<p class="section__subtitle">FOLLOW US ON</p>
+							<h2 class="section__title">COME WITH US</h2>
+					</div>
+					<div class="classes__info">
+						
+					</div>
+					<div class="classes__categories">
+						<div class="category">
+							<div class="category__block">
+								<span class="category__name">Men</span>
+								<span class="arrow__icon">
+									<i class="fa-solid fa-arrow-right"></i>
+								</span>
+							</div>
+							<div class="category__desc">
+								Men’s Training – Focus on muscle building, endurance, and functional fitness.
+							</div>
+						</div>
+						<div class="category">
+							<div class="category__block">
+								<span class="category__name">Women</span>
+								<span class="arrow__icon">
+									<i class="fa-solid fa-arrow-right"></i>
+								</span>
+							</div>
+							<div class="category__desc">
+								Women’s Fitness – Tone your body with yoga, pilates, and strength training.
+							</div>
+						</div>
+						<div class="category">
+							<div class="category__block">
+								<span class="category__name">Kids</span>
+								<span class="arrow__icon">
+									<i class="fa-solid fa-arrow-right"></i>
+								</span>
+							</div>
+							<div class="category__desc">
+								Kids’ Programs – Fun and engaging sessions to develop strength, coordination, and
+								discipline.
+							</div>
+						</div>
+					</div>
+				</div>
+			</section>
